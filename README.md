@@ -14,3 +14,8 @@ This LMS will provide additional flexibility and convenience to the library
 users, help in better reliability and security of the library information, will give
 a more productive environment for the library staff members and also reduce
 the cost of the library operations.
+
+#Group Members
+Joseph Alexander
+Ananya Pal
+Uthra L
